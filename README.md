@@ -13,8 +13,8 @@ Projeto: 🚀Concluido
 
 ## 💻 Objetivo
  
- Está landing page tem como objetivo mostrar meu trabalho responsivo com Landing Pages <br>
- Site da página disponivel em: https://dariorjunior.github.io/LandingPage/
+ Está pagina foi criada na Imersão React 4 da Alura como forma de estudos <br>
+ Site da página disponivel em: https://dariocord-alura.vercel.app/
 
 
 ## 🛠 Tecnologias
