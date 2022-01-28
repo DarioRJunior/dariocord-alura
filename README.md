@@ -22,7 +22,7 @@ Projeto: 🚀Concluido
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - React
-<img align="center" alt="Dario-Js" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="center" alt="Dario-Js" height="30" width="100%" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
 
 ## 🦸 Autor
