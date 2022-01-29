@@ -61,7 +61,7 @@ export default function ChatPage() {
   function handleNovaMensagem(novaMensagem) {
     const mensagem = {
       // id: listaDeMensagens.length + 1,
-      de: usuarioLogado,
+      de: 'DarioRJunior',
       texto: novaMensagem,
     };
 
